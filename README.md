@@ -4,7 +4,7 @@
 🎓 Studying Development Economics at University Trunojoyo Madura  
 📊 Sharing projects and learnings about data analysis, visualization, and analytics  
 🌱 #learninginpublic in my digital projects and portfolio  
-💭 Exploring Python, SQL, Tableau, Power BI, and Stata to solve real-world problems
+💭 Exploring Excel, Python, SQL, Tableau, and Power BI to solve real-world problems
 
 ---
 
