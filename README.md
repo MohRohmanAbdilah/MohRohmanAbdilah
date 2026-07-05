@@ -1,7 +1,9 @@
 # Hi, I'm Rohman! 👋
 
-💻 Data Analyst passionate about turning raw data into actionable insights  
-🎓 Studying Development Economics at University Trunojoyo Madura  
-📊 Sharing projects and learnings about data analysis, visualization, and analytics  
-🌱 #learninginpublic in my digital projects and portfolio  
-💭 Exploring Excel, Python, SQL, Tableau, and Power BI to solve real-world problems
+💻 Aspiring Data Analyst passionate about turning data into actionable insights.
+
+📊 Building data analytics projects using Excel, SQL, Power BI, and Tableau.
+
+🌱 Currently learning Python for data analysis.
+
+🚀 Sharing my projects and continuous learning journey through GitHub.
